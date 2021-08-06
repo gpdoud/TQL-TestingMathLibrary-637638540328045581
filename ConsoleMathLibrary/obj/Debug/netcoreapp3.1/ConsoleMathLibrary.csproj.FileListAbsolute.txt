@@ -1,0 +1,16 @@
+C:\repos\TQL-TestingMathLibrary\ConsoleMathLibrary\bin\Debug\netcoreapp3.1\ConsoleMathLibrary.exe
+C:\repos\TQL-TestingMathLibrary\ConsoleMathLibrary\bin\Debug\netcoreapp3.1\ConsoleMathLibrary.deps.json
+C:\repos\TQL-TestingMathLibrary\ConsoleMathLibrary\bin\Debug\netcoreapp3.1\ConsoleMathLibrary.runtimeconfig.json
+C:\repos\TQL-TestingMathLibrary\ConsoleMathLibrary\bin\Debug\netcoreapp3.1\ConsoleMathLibrary.runtimeconfig.dev.json
+C:\repos\TQL-TestingMathLibrary\ConsoleMathLibrary\bin\Debug\netcoreapp3.1\ConsoleMathLibrary.dll
+C:\repos\TQL-TestingMathLibrary\ConsoleMathLibrary\bin\Debug\netcoreapp3.1\ConsoleMathLibrary.pdb
+C:\repos\TQL-TestingMathLibrary\ConsoleMathLibrary\bin\Debug\netcoreapp3.1\TQL-TestingMathLibrary.dll
+C:\repos\TQL-TestingMathLibrary\ConsoleMathLibrary\bin\Debug\netcoreapp3.1\TQL-TestingMathLibrary.pdb
+C:\repos\TQL-TestingMathLibrary\ConsoleMathLibrary\obj\Debug\netcoreapp3.1\ConsoleMathLibrary.csproj.AssemblyReference.cache
+C:\repos\TQL-TestingMathLibrary\ConsoleMathLibrary\obj\Debug\netcoreapp3.1\ConsoleMathLibrary.AssemblyInfoInputs.cache
+C:\repos\TQL-TestingMathLibrary\ConsoleMathLibrary\obj\Debug\netcoreapp3.1\ConsoleMathLibrary.AssemblyInfo.cs
+C:\repos\TQL-TestingMathLibrary\ConsoleMathLibrary\obj\Debug\netcoreapp3.1\ConsoleMathLibrary.csproj.CoreCompileInputs.cache
+C:\repos\TQL-TestingMathLibrary\ConsoleMathLibrary\obj\Debug\netcoreapp3.1\ConsoleMathLibrary.csproj.CopyComplete
+C:\repos\TQL-TestingMathLibrary\ConsoleMathLibrary\obj\Debug\netcoreapp3.1\ConsoleMathLibrary.dll
+C:\repos\TQL-TestingMathLibrary\ConsoleMathLibrary\obj\Debug\netcoreapp3.1\ConsoleMathLibrary.pdb
+C:\repos\TQL-TestingMathLibrary\ConsoleMathLibrary\obj\Debug\netcoreapp3.1\ConsoleMathLibrary.genruntimeconfig.cache

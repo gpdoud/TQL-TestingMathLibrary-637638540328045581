@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleMathLibrary/1.0.0": {
+        "dependencies": {
+          "TQL-TestingMathLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleMathLibrary.dll": {}
+        }
+      },
+      "TQL-TestingMathLibrary/1.0.0": {
+        "runtime": {
+          "TQL-TestingMathLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleMathLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TQL-TestingMathLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

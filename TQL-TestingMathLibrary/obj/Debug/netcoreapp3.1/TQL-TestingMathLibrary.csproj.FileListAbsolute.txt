@@ -1,0 +1,9 @@
+C:\repos\TQL-TestingMathLibrary\TQL-TestingMathLibrary\bin\Debug\netcoreapp3.1\TQL-TestingMathLibrary.deps.json
+C:\repos\TQL-TestingMathLibrary\TQL-TestingMathLibrary\bin\Debug\netcoreapp3.1\TQL-TestingMathLibrary.dll
+C:\repos\TQL-TestingMathLibrary\TQL-TestingMathLibrary\bin\Debug\netcoreapp3.1\TQL-TestingMathLibrary.pdb
+C:\repos\TQL-TestingMathLibrary\TQL-TestingMathLibrary\obj\Debug\netcoreapp3.1\TQL-TestingMathLibrary.csproj.AssemblyReference.cache
+C:\repos\TQL-TestingMathLibrary\TQL-TestingMathLibrary\obj\Debug\netcoreapp3.1\TQL-TestingMathLibrary.AssemblyInfoInputs.cache
+C:\repos\TQL-TestingMathLibrary\TQL-TestingMathLibrary\obj\Debug\netcoreapp3.1\TQL-TestingMathLibrary.AssemblyInfo.cs
+C:\repos\TQL-TestingMathLibrary\TQL-TestingMathLibrary\obj\Debug\netcoreapp3.1\TQL-TestingMathLibrary.csproj.CoreCompileInputs.cache
+C:\repos\TQL-TestingMathLibrary\TQL-TestingMathLibrary\obj\Debug\netcoreapp3.1\TQL-TestingMathLibrary.dll
+C:\repos\TQL-TestingMathLibrary\TQL-TestingMathLibrary\obj\Debug\netcoreapp3.1\TQL-TestingMathLibrary.pdb
